@@ -1,0 +1,156 @@
+"","phenotype.submitter_id","phenotype.gender","phenotype.race","phenotype.vital_status","phenotype.age_at_diagnosis","phenotype.inss_stage","phenotype.tissue_or_organ_of_origin","phenotype.days"
+"1","TARGET-30-PAPTDH","female","white","Alive",11,"Stage 4S","Adrenal gland, NOS",3264
+"2","TARGET-30-PAPICY","female","white","Alive",58,"Stage 4S","Skin of lower limb and hip",205
+"3","TARGET-30-PATHKB","male","white","Alive",7,"Stage 4S","Adrenal gland, NOS",1998
+"4","TARGET-30-PARDCK","female","white","Alive",2060,"Stage 4","Abdomen, NOS",2991
+"5","TARGET-30-PASMJG","female","Unknown","Dead",1765,"Stage 4","Adrenal gland, NOS",1544
+"6","TARGET-30-PAMNLH","female","white","Dead",1531,"Stage 4","Kidney, NOS",837
+"7","TARGET-30-PAPCTS","male","black or african american","Dead",2008,"Stage 4","Kidney, NOS",2636
+"8","TARGET-30-PALIIN","male","white","Dead",1279,"Stage 4","Unknown",1395
+"9","TARGET-30-PATFXV","female","white","Dead",648,"Stage 4","Abdomen, NOS",296
+"10","TARGET-30-PASNEF","female","Unknown","Alive",696,"Stage 4","Retroperitoneum",2213
+"11","TARGET-30-PAPKXS","female","white","Dead",2547,"Stage 4","Adrenal gland, NOS",2384
+"12","TARGET-30-PARZHA","male","Unknown","Alive",3,"Stage 4S","Retroperitoneum",2489
+"13","TARGET-30-PATESI","male","black or african american","Dead",752,"Stage 4","Adrenal gland, NOS",958
+"14","TARGET-30-PATINJ","male","white","Dead",1037,"Stage 4","Abdomen, NOS",822
+"15","TARGET-30-PAMZMG","female","white","Dead",614,"Stage 4","Adrenal gland, NOS",763
+"16","TARGET-30-PAPBJE","male","white","Alive",1860,"Stage 4","Kidney, NOS",3467
+"17","TARGET-30-PASYPX","female","white","Alive",1514,"Stage 4","Abdomen, NOS",2215
+"18","TARGET-30-PANYGR","male","Unknown","Dead",993,"Stage 4","Overlapping lesion of retroperitoneum and peritoneum",283
+"19","TARGET-30-PANXJL","male","Unknown","Alive",5734,"Stage 4","Pelvic lymph nodes",431
+"20","TARGET-30-PALETP","female","white","Dead",1466,"Stage 4","Posterior mediastinum",251
+"21","TARGET-30-PATAYJ","male","white","Alive",52,"Stage 4S","Posterior mediastinum",1744
+"22","TARGET-30-PASWYR","male","white","Alive",958,"Stage 4","Retroperitoneum",1893
+"23","TARGET-30-PATGLU","male","white","Dead",1037,"Stage 4","Adrenal gland, NOS",1330
+"24","TARGET-30-PANZRV","male","white","Alive",72,"Stage 4S","Adrenal gland, NOS",3434
+"25","TARGET-30-PALVKK","female","white","Dead",1810,"Stage 4","Medulla of adrenal gland",1033
+"26","TARGET-30-PASPER","female","white","Alive",753,"Stage 4","Retroperitoneum",2087
+"27","TARGET-30-PATHVK","female","white","Alive",2109,"Stage 4","Adrenal gland, NOS",1807
+"28","TARGET-30-PARACS","male","white","Alive",1180,"Stage 4","Retroperitoneum",1328
+"29","TARGET-30-PASGUT","male","white","Alive",1259,"Stage 4","Adrenal gland, NOS",401
+"30","TARGET-30-PAPTFZ","male","black or african american","Dead",564,"Stage 4","Adrenal gland, NOS",779
+"31","TARGET-30-PARDIW","male","white","Alive",2048,"Stage 4","Abdomen, NOS",2829
+"32","TARGET-30-PANZPV","female","white","Dead",1757,"Stage 4","Liver",1261
+"33","TARGET-30-PATNKP","male","white","Dead",3446,"Stage 4","Retroperitoneum",1549
+"34","TARGET-30-PARVLK","female","white","Dead",6021,"Stage 4","Adrenal gland, NOS",875
+"35","TARGET-30-PAPVXS","male","black or african american","Dead",1366,"Stage 4","Adrenal gland, NOS",224
+"36","TARGET-30-PASCFC","male","white","Alive",18,"Stage 4S","Adrenal gland, NOS",2522
+"37","TARGET-30-PALUYS","female","white","Dead",1214,"Stage 4","Abdomen, NOS",1284
+"38","TARGET-30-PAPUEB","female","white","Alive",1595,"Stage 4","Abdomen, NOS",2772
+"39","TARGET-30-PANRHJ","female","white","Dead",1117,"Stage 4","Thorax, NOS",416
+"40","TARGET-30-PAIVHE","male","white","Dead",1123,"Stage 4","Adrenal gland, NOS",1605
+"41","TARGET-30-PASSRS","male","Unknown","Dead",2492,"Stage 4","Abdomen, NOS",1319
+"42","TARGET-30-PASPBZ","male","black or african american","Alive",62,"Stage 4S","Abdomen, NOS",2347
+"43","TARGET-30-PASWIJ","male","white","Alive",2537,"Stage 4","Abdomen, NOS",1940
+"44","TARGET-30-PARYNK","female","white","Alive",2279,"Stage 4","Intra-abdominal lymph nodes",2351
+"45","TARGET-30-PAPUAR","female","asian","Alive",515,"Stage 4","Thorax, NOS",3065
+"46","TARGET-30-PARHAM","female","white","Dead",341,"Stage 4","Pelvis, NOS",2466
+"47","TARGET-30-PAPTCR","female","white","Dead",754,"Stage 4","Adrenal gland, NOS",456
+"48","TARGET-30-PAPVRN","male","white","Alive",2300,"Stage 4","Abdomen, NOS",2889
+"49","TARGET-30-PASNML","male","Unknown","Alive",8,"Stage 4S","Mediastinum, NOS",2185
+"50","TARGET-30-PAPZYP","female","white","Alive",1010,"Stage 4","Retroperitoneum",2386
+"51","TARGET-30-PAPUNH","female","white","Alive",3425,"Stage 3","Retroperitoneum",2958
+"52","TARGET-30-PASXIE","male","white","Alive",837,"Stage 4","Retroperitoneum",2123
+"53","TARGET-30-PATBMM","male","white","Alive",1112,"Stage 4","Adrenal gland, NOS",768
+"54","TARGET-30-PAITEG","male","white","Dead",1034,"Stage 4","Unknown",812
+"55","TARGET-30-PARBAJ","male","white","Alive",35,"Stage 3","Retroperitoneum",3122
+"56","TARGET-30-PAPLSD","male","white","Dead",710,"Stage 4","Abdomen, NOS",1383
+"57","TARGET-30-PARFRE","female","Unknown","Alive",60,"Stage 4S","Aortic body and other paraganglia",2451
+"58","TARGET-30-PASJZC","female","white","Alive",74,"Stage 4S","Liver",2083
+"59","TARGET-30-PATDXC","male","white","Dead",1659,"Stage 4","Retroperitoneum",916
+"60","TARGET-30-PAPKWN","female","white","Dead",710,"Stage 4","Head, face or neck, NOS",465
+"61","TARGET-30-PAPVFD","male","white","Dead",1961,"Stage 4","Medulla of adrenal gland",1765
+"62","TARGET-30-PASZKE","male","white","Dead",31,"Stage 4S","Adrenal gland, NOS",8
+"63","TARGET-30-PANLET","female","Unknown","Dead",1973,"Stage 4","Adrenal gland, NOS",1212
+"64","TARGET-30-PANUIF","female","white","Alive",2234,"Stage 4","Abdomen, NOS",3726
+"65","TARGET-30-PASTKC","male","white","Alive",3035,"Stage 4","Abdomen, NOS",1952
+"66","TARGET-30-PANWRR","male","white","Dead",2937,"Stage 4","Abdomen, NOS",345
+"67","TARGET-30-PAIFXV","female","white","Dead",2004,"Stage 4","Unknown",1114
+"68","TARGET-30-PARKGJ","male","white","Dead",1616,"Stage 4","Bone marrow",1636
+"69","TARGET-30-PASRFS","female","white","Alive",1328,"Stage 4","Abdomen, NOS",2075
+"70","TARGET-30-PARZIP","male","Unknown","Alive",2273,"Stage 4","Kidney, NOS",2511
+"71","TARGET-30-PAPHPE","male","black or african american","Dead",806,"Stage 4","Abdomen, NOS",470
+"72","TARGET-30-PASUYG","male","black or african american","Alive",1418,"Stage 4","Adrenal gland, NOS",2193
+"73","TARGET-30-PAMBMJ","male","white","Dead",954,"Stage 4","Peripheral nerves and autonomic nervous system of trunk, NOS",491
+"74","TARGET-30-PANKFE","female","white","Alive",1280,"Stage 4","Adrenal gland, NOS",402
+"75","TARGET-30-PATEPF","male","white","Dead",1434,"Stage 4","Adrenal gland, NOS",304
+"76","TARGET-30-PAPBZI","male","white","Dead",1710,"Stage 4","Abdomen, NOS",430
+"77","TARGET-30-PANBMJ","male","white","Dead",993,"Stage 4","Peripheral nerves and autonomic nervous system of trunk, NOS",3776
+"78","TARGET-30-PAPTLV","female","white","Dead",641,"Stage 4","Adrenal gland, NOS",575
+"79","TARGET-30-PALBFW","male","white","Dead",804,"Stage 4","Medulla of adrenal gland",1073
+"80","TARGET-30-PANRRW","male","white","Alive",1730,"Stage 4","Abdomen, NOS",2178
+"81","TARGET-30-PASHFA","female","white","Dead",406,"Stage 3","Adrenal gland, NOS",333
+"82","TARGET-30-PANNMS","female","white","Alive",1080,"Stage 4","Retroperitoneum",3509
+"83","TARGET-30-PASMDM","male","white","Alive",25,"Stage 4S","Adrenal gland, NOS",1324
+"84","TARGET-30-PAUDDK","male","black or african american","Alive",361,"Stage 3","Pelvis, NOS",1528
+"85","TARGET-30-PAPBGH","female","native hawaiian or other pacific islander","Dead",1074,"Stage 4","Adrenal gland, NOS",723
+"86","TARGET-30-PALCBW","female","white","Alive",679,"Stage 4","Medulla of adrenal gland",4565
+"87","TARGET-30-PASVRU","male","white","Dead",631,"Stage 4","Retroperitoneum",440
+"88","TARGET-30-PANGXK","male","white","Alive",1266,"Stage 4","Peripheral nerves and autonomic nervous system of thorax",3792
+"89","TARGET-30-PASXRJ","female","white","Alive",583,"Stage 4","Abdomen, NOS",1837
+"90","TARGET-30-PASXGP","male","white","Alive",834,"Stage 4","Adrenal gland, NOS",1898
+"91","TARGET-30-PARBGP","female","black or african american","Dead",3625,"Stage 4","Head, face or neck, NOS",2039
+"92","TARGET-30-PALKUC","female","black or african american","Alive",823,"Stage 4","Medulla of adrenal gland",4399
+"93","TARGET-30-PASWFB","female","black or african american","Dead",727,"Stage 4","Abdomen, NOS",87
+"94","TARGET-30-PASNZU","male","black or african american","Dead",1099,"Stage 4","Abdomen, NOS",1692
+"95","TARGET-30-PAPEAV","female","white","Alive",696,"Stage 4","Adrenal gland, NOS",3462
+"96","TARGET-30-PAISNS","male","white","Dead",1070,"Stage 4","Unknown",421
+"97","TARGET-30-PALWVJ","male","black or african american","Dead",1544,"Stage 4","Medulla of adrenal gland",803
+"98","TARGET-30-PAIPGU","female","white","Dead",898,"Stage 4","Unknown",436
+"99","TARGET-30-PATCFL","male","white","Alive",1041,"Stage 4","Abdomen, NOS",2125
+"100","TARGET-30-PAMMXF","male","Unknown","Dead",1661,"Stage 4","Adrenal gland, NOS",197
+"101","TARGET-30-PATDWN","male","Unknown","Alive",1435,"Stage 4","Adrenal gland, NOS",278
+"102","TARGET-30-PASXHE","male","black or african american","Alive",1438,"Stage 4","Thorax, NOS",2098
+"103","TARGET-30-PANZVU","male","white","Dead",1713,"Stage 4","Adrenal gland, NOS",934
+"104","TARGET-30-PAPTAN","male","black or african american","Alive",1462,"Stage 4","Posterior mediastinum",2054
+"105","TARGET-30-PATEKG","female","black or african american","Alive",1275,"Stage 4","Adrenal gland, NOS",1988
+"106","TARGET-30-PALXTB","male","white","Alive",635,"Stage 4","Medulla of adrenal gland",4621
+"107","TARGET-30-PASWVY","female","white","Alive",2477,"Stage 4","Connective, subcutaneous and other soft tissues of abdomen",1918
+"108","TARGET-30-PASXRG","female","white","Alive",1278,"Stage 4","Retroperitoneum",1749
+"109","TARGET-30-PAKZRH","male","white","Alive",21,"Stage 4S","Medulla of adrenal gland",3341
+"110","TARGET-30-PAMYCE","female","white","Dead",1059,"Stage 4","Adrenal gland, NOS",995
+"111","TARGET-30-PATFCY","male","white","Dead",1040,"Stage 4","Adrenal gland, NOS",787
+"112","TARGET-30-PARSBI","female","white","Dead",2390,"Stage 4","Abdomen, NOS",1743
+"113","TARGET-30-PASNPG","female","black or african american","Alive",318,"Stage 3","Other ill-defined sites",2274
+"114","TARGET-30-PATYIL","female","white","Dead",328,"Stage 4","Abdomen, NOS",481
+"115","TARGET-30-PAPEFE","male","black or african american","Dead",990,"Stage 4","Adrenal gland, NOS",150
+"116","TARGET-30-PASFGG","female","white","Dead",1037,"Stage 4","Abdomen, NOS",700
+"117","TARGET-30-PASEGA","male","white","Dead",1091,"Stage 4","Adrenal gland, NOS",809
+"118","TARGET-30-PAKYZS","male","white","Alive",659,"Stage 4","Medulla of adrenal gland",3587
+"119","TARGET-30-PARFWB","male","white","Dead",1555,"Stage 4","Peripheral nerves and autonomic nervous system of thorax",1836
+"120","TARGET-30-PAMEZH","female","black or african american","Dead",746,"Stage 4","Retroperitoneum",330
+"121","TARGET-30-PANJLH","male","white","Dead",1010,"Stage 4","Abdomen, NOS",500
+"122","TARGET-30-PASGAP","male","black or african american","Dead",1330,"Stage 4","Adrenal gland, NOS",1543
+"123","TARGET-30-PALTEG","male","white","Dead",1367,"Stage 4","Abdomen, NOS",551
+"124","TARGET-30-PARNNC","female","white","Alive",41,"Stage 4S","Retroperitoneum",2611
+"125","TARGET-30-PALNVP","female","white","Alive",1155,"Stage 4","Pelvis, NOS",4665
+"126","TARGET-30-PAPUWY","female","white","Dead",1955,"Stage 4","Adrenal gland, NOS",1102
+"127","TARGET-30-PASTCN","male","white","Dead",1900,"Stage 4","Overlapping lesion of retroperitoneum and peritoneum",1033
+"128","TARGET-30-PASSWW","male","white","Alive",7,"Stage 4S","Kidney, NOS",2095
+"129","TARGET-30-PANRVJ","male","white","Alive",4781,"Stage 4","Abdomen, NOS",3722
+"130","TARGET-30-PAMZGT","male","white","Alive",602,"Stage 4","Adrenal gland, NOS",3823
+"131","TARGET-30-PARJVP","male","Unknown","Alive",56,"Stage 4S","Adrenal gland, NOS",2064
+"132","TARGET-30-PASCTR","male","white","Alive",60,"Stage 4S","Cortex of adrenal gland",2325
+"133","TARGET-30-PANSBN","male","white","Dead",2329,"Stage 4","Mediastinum, NOS",836
+"134","TARGET-30-PASUML","male","black or african american","Dead",4,"Stage 4S","Abdomen, NOS",20
+"135","TARGET-30-PARACM","female","black or african american","Alive",1442,"Stage 4","Adrenal gland, NOS",2994
+"136","TARGET-30-PAPZYZ","female","black or african american","Alive",550,"Stage 4","Retroperitoneum",1209
+"137","TARGET-30-PASUCB","male","white","Alive",1008,"Stage 4","Adrenal gland, NOS",1976
+"138","TARGET-30-PAIXIF","male","Unknown","Alive",1315,"Stage 4","Unknown",2228
+"139","TARGET-30-PASMNT","female","native hawaiian or other pacific islander","Dead",4802,"Stage 4","Abdomen, NOS",1696
+"140","TARGET-30-PASSRN","male","white","Alive",5345,"Stage 4","Adrenal gland, NOS",2227
+"141","TARGET-30-PARGKK","male","black or african american","Dead",2241,"Stage 4","Abdomen, NOS",1321
+"142","TARGET-30-PATGJU","female","white","Alive",59,"Stage 4S","Abdomen, NOS",1219
+"143","TARGET-30-PAITCI","male","white","Dead",728,"Stage 4","Unknown",324
+"144","TARGET-30-PASZPI","male","white","Dead",645,"Stage 4","Adrenal gland, NOS",1014
+"145","TARGET-30-PATDXG","male","white","Alive",688,"Stage 4","Abdomen, NOS",2052
+"146","TARGET-30-PARAMT","male","white","Dead",885,"Stage 4","Adrenal gland, NOS",493
+"147","TARGET-30-PAPVEB","male","white","Dead",1720,"Stage 2B","Adrenal gland, NOS",1211
+"148","TARGET-30-PASFIC","male","white","Alive",51,"Stage 4S","Adrenal gland, NOS",2152
+"149","TARGET-30-PAMVRA","female","white","Dead",1554,"Stage 4","Adrenal gland, NOS",2433
+"150","TARGET-30-PANBSP","female","white","Dead",1064,"Stage 4","Kidney, NOS",659
+"151","TARGET-30-PALEVG","male","white","Alive",666,"Stage 4","Medulla of adrenal gland",4948
+"152","TARGET-30-PANUKV","male","white","Dead",1486,"Stage 4","Adrenal gland, NOS",404
+"153","TARGET-30-PALZZV","female","black or african american","Alive",699,"Stage 4","Medulla of adrenal gland",1934
+"154","TARGET-30-PARZCJ","male","white","Alive",242,"Stage 3","Adrenal gland, NOS",2435
+"155","TARGET-30-PANBJH","female","black or african american","Dead",1030,"Stage 4","Adrenal gland, NOS",920
