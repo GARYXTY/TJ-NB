@@ -11,3 +11,4 @@ by Feng, Chenzhao; Xiang, Tianyu; Yi, Zixuan; Meng, Xinyao; Chu, Xufeng; Huang, 
 * code: network model
 * result: raw result data
 * data: datasets used in paper
+* downstream_analysis: Exploring, computing, constructing and visualizing downstream analysis.
